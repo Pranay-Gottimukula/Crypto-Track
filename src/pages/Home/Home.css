@@ -1,0 +1,10 @@
+/* grid grid-cols-5 */
+
+.crypto-table {
+    display: grid ;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1.5fr;
+}
+
+.crypto-table:last-child {
+    border: none;
+}

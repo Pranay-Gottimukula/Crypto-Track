@@ -1,0 +1,17 @@
+.day-btn {
+    background-color: #00a6e8f6;
+}
+
+.unactive-btn {
+    background-color: #00a6e8f6;
+}
+
+.activated-btn {
+    background-color: aliceblue;
+    color: black;
+    transition: background-color 0,2s;
+}
+
+.unactive-btn:hover {
+    background-color: hsla(197, 100%, 45%, 0.90);
+}
