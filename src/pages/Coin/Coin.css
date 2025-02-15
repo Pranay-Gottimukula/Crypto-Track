@@ -1,0 +1,45 @@
+.coin {
+    min-height: 85vh;
+}
+
+.coin-name {
+    width: 25vw;
+}
+
+.coin-chart {
+    width: 75vw;
+}
+
+.spinner {
+    min-height: 85vh;
+}
+
+.spin{
+    animation: rotate 2s infinite;
+    border-top-color: #0077CC;
+}
+
+@keyframes rotate {
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+@media (max-width: 1200px) {
+    .coin {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .coin-name {
+        border: none;
+        width: 60vw;
+        padding-block: 2rem;
+    }
+
+    .coin-chart {
+        width: 100vw;
+    }
+}
+

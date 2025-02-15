@@ -1,0 +1,33 @@
+/* Changing colour button when selected */
+
+.unactive-btn {
+    background-color: #00a6e8f6;
+}
+
+.activated-btn {
+    background-color: aliceblue;
+    color: black;
+    transition: background-color 0,2s;
+}
+
+.unactive-btn:hover {
+    background-color: hsla(197, 100%, 45%, 0.90);
+}
+
+/* Adjusting page for different widths of windows*/
+
+@media (max-width: 600px) {
+    .chart-btn {
+        font-size: small;
+        padding-inline: 0.9rem;
+        padding-block: 0.4rem;
+    }
+}
+
+@media (max-width: 540px) {
+    .chart-btn {
+        font-size: 0.5rem;
+        padding-inline: 0.75rem;
+        padding-block: 0.25rem;
+    }
+}
