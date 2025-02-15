@@ -74,7 +74,7 @@
 @media (max-width: 540px) {
     .crypto-table {
         display: grid ;
-        grid-template-columns: 0.5fr 3fr 1fr;
+        grid-template-columns: 0.4fr 3fr 1.2fr;
     }
 
     .HCh {
