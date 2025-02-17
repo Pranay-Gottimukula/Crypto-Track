@@ -1,9 +1,9 @@
-<h2>Task-4: Front-End Development</h2>
+<h1>Task-4: Front-End Development</h1>
 
-<h1>Title: Crypto Price Tracker</h1>
-<h1>Domain: Web</h1>
+<h2>Title: Crypto Price Tracker</h2>
+<h2>Domain: Web</h2>
 
-Deployed Website Link:  <a href="https://euphonious-otter-5e1ef5.netlify.app/">Here</a>
+Deployed Website Link:  <a href="https://euphonious-otter-5e1ef5.netlify.app/" target="_blank">Here</a>
 
 This is a real time crypto currency changes tracking website compatibile in all platforms.
 <bold>Vite</bold>, <bold>React</bold> and <bold>Tailwind CSS</bold> were used to make this project.
