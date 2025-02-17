@@ -5,8 +5,8 @@
 
 Deployed Website Link:  <a href="https://euphonious-otter-5e1ef5.netlify.app/" target="_blank">Here</a>
 
-This is a real time crypto currency changes tracking website compatibile in all platforms.
-<bold>Vite</bold>, <bold>React</bold> and <bold>Tailwind CSS</bold> were used to make this project.
+This is a real time crypto currency changes tracking website compatibile in all platforms. <br>
+<h5>Vite</h5>, <h5>React</h5> and <h5>Tailwind CSS</h5> were used to make this project.
 
 Interface of this website adjusts according to the device and window size.
 
@@ -17,7 +17,11 @@ We have a Navbar: conatining Logo-text, Home and a selector to choose currency i
 
 Home Page view in Full screen: ![Home Page View in Full screen](https://github.com/user-attachments/assets/fb3fe096-c95c-41f5-97bb-1e98d688ec5c)
 
+<br>
+
 Home page View in Mobile Phone: ![image](https://github.com/user-attachments/assets/d12cd420-6740-4c69-b7b6-3228370d011b)
+
+<br><br>
 
 Clicking on any coin will redirect to detailed view of the coin.
 
@@ -27,6 +31,9 @@ We have a Details Section: Which shows logo of coin, brief description of coin, 
 
 Detailed Coin page view in Full screen: ![Detailedfullcrpto](https://github.com/user-attachments/assets/46e7eb43-6b47-4663-a1ff-2be99f2d002e)
 
+<br>
+
 Detailed Coin page view in Mobile Phone:
 ![image](https://github.com/user-attachments/assets/a0addb2c-b6e5-4de5-9172-3f5b40237ea4)
+<br>
 ![image](https://github.com/user-attachments/assets/784641ba-5f08-4fbe-b944-be2a4e1a27ef)
